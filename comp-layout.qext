@@ -1,0 +1,9 @@
+{
+	"name" : "Comp Layout Example",
+	"description" : "Responsive Component Layout Example",
+	"icon" : "",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Christoffer Hedberg - Qlik"
+}
